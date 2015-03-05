@@ -1,0 +1,207 @@
+[
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "1. The purpose of software is to help people."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "3. The Law of Change: The longer your program exists, the more probable it is that any piece of it will have to change."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "4. The Law of Defect Probability: The chance of introducing a defect into your program is proportional to the size of the changes you make to it."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "5. The Law of Simplicity: The ease of maintenance of any piece of software is proportional to the simplicity of its individual pieces."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "6. The Law of Testing: The degree to which you know how your software behaves is the degree to which you have accurately tested it."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "It is more important to reduce the effort of maintenance than it is to reduce the effort of implementation."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "The effort of maintenance is proportional to the complexity of the system."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Fact: The difference between a bad programmer and a good programmer is understanding. That is, bad programmers don't understand what they are doing, and good programmers do."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: A good programmer should do everything in their power to make what they write simple for other programmers to use and comprehend."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Fact: Everybody who writes software is a designer."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Design is not a democracy. Decisions should be made by individuals."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: There are some things about the future that you do not know."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Fact: The most common and disastrous error that programmers make is predicting something about the future when in fact they cannot know."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: You are safest if you don't attempt to predict the future at all, and instead make all your design decisions based on immediately know present-time information."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "The three flaws of software: 1. Writing code that isn't needed. 2. Not making the code easy to change. 3. Being too generic."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Don't write code that isn't needed, and remove code that isn't being used."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Fact: When your design actually makes things more complex instead of simplifying things, you're overengineering"
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: You can avoid the three flaws by doing incremental development and design"
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Never \"fix\" anything unless it's a problem, and you have evidence showing that the problem really exists."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Fact: Simplicity is relative."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: If you want to succeed, it is best to be stupid, dumb simple."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Be consistent."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Comments should explain why the code is doing something, not what it is doing."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Simplicity requires design."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: When presented with complexity, ask, \"What problem are you trying to solve\""
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Many difficult design problems can be solved simply drawing or writing them out on paper."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: To handle complexity in your system, redesign the individual pieces in small steps."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Fact: The key question behind all valid simplifications is, \"How could this be easier to deal with or more understandable\""
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: If you run into an unfixable complexity outside of your program, put a wrapper around it that is simple for other programmers."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Rewriting is acceptable only in a very limited set of situations."
+  },
+  {
+    "link": "http://www.amazon.com/Code-Simplicity-Fundamentals-Max-Kanat-Alexander/dp/1449313892/",
+    "title": "Code Simplicity: The Fundamentals of Software",
+    "text": "Rule: Unless you've tried it, you don't know that it works."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "Whenever i do refactoring, the first step is always the same. I need to build a solid set of tests for that section of code."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "Before you start refactoring, check that you have a solid suite of tests. These tests must be self-checking."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "Refactoring is the process of changing a software system in such a way that it does not alter the external behaviour of the code yet improves its internal structure."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "Whenever i have to think to understand what the code is doing, I ask myself if i can refactor the code to make that understanding more immediately apparent."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "A heuristic we follow is that whenever we feel the need to comment something, we write a method instead."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "Now i'm a pretty lazy person and am prepared to work quite hard in order to avoid work."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "When you get a bug report, start by writing a unit test that exposes the bug."
+  },
+  {
+    "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "text": "Think of the boundary conditions under which things might go wrong and concentrate your tests there."
+  }
+]
