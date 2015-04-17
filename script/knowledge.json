@@ -203,5 +203,85 @@
     "link": "http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672",
     "title": "Refactoring: Improving the Design of Existing Code",
     "text": "Think of the boundary conditions under which things might go wrong and concentrate your tests there."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "They may defend the schedule and requirements with passion; but that’s their job. It’s your job to defend the code with equal passion."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "It is a recommended practice in Scrum that re-factoring be part of the concept of \"Done.\""
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "Code, without tests, is not clean. No matter how elegant it is, no matter how readable and accessible, if it hath not tests, it be unclean."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "Clean code is code that has been taken care of. Someone has taken the time to keep it simple and orderly. They have paid appropriate attention to details. They have cared."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "The next time you write a line of code, remember you are an author, writing for readers who will judge your effort."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "One difference between a smart programmer and a professional programmer is that the professional understands that clarity is king. Professionals use their powers for good and write code that others can understand."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "We want our code to be a quick skim, not an intense study. We want to use the popular paperback model whereby the author is responsible for making himself clear and not the academic model where it is the scholar’s job to dig the meaning out of the paper."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "So, another way to know that a function is doing more than “one thing” is if you can extract another function from it with a name that is not merely a restatement of its implementation"
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "The proper use of comments is to compensate for our failure to express ourself in code."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "It takes only a few seconds of thought to explain most of your intent in code. In many cases it’s simply a matter of creating a function that says the same thing as the comment you want to write."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "Replace the temptation to create noise with the determination to clean your code. You’ll find it makes you a better and happier programmer."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "Others who see that commented-out code won’t have the courage to delete it. They’ll think it is there for a reason and is too important to delete. So commented-out code gathers like dregs at the bottom of a bad bottle of wine."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "If openness separates concepts, then vertical density implies close association. So lines of code that are tightly related should appear vertically dense."
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "It is unit tests that keep our code flexible, maintainable, and reusable. The reason is simple. If you have tests, you do not fear making changes to the code!"
+  },
+  {
+    "link": "http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "text": "They may defend the schedule and requirements with passion; but that’s their job. It’s your job to defend the code with equal passion."
   }
 ]
